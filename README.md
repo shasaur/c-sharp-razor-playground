@@ -1,6 +1,10 @@
 # Dotnet Razor Example Project
 
-This is just a simple auto-generated example project for simulating a front-end developer coming onto a brown field project and being tasked with adding new pages.
+This is just a simple auto-generated example project for simulating a front-end developer coming onto a brown field project and being tasked with adding new features and content.
+
+## Running
+
+Use `dotnet watch run` to run and hot-reload any changes.
 
 ## wwwroot/lib/
 
